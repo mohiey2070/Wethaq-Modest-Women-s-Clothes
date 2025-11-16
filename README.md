@@ -1,7 +1,7 @@
 # Wethaq-Modest-Women-s-Clothes
  إدارة شاملة لحسابات التواصل الاجتماعي الخاصة ببراند *وِثاق (Wethaq)* المتخصص في ملابس النساء المحجبات، بهدف *زيادة الوعي بالبراند، جذب عملاء جدد، وتحويل المتابعين إلى مشترين أوفياء، مع ضمان حضور قوي ومستدام لـ **وِثاق (Wethaq)* في سوق ملابس المحجبات.
 
-..............
+---
 
 ## 👥 Team Members (Marketiq)
 
@@ -20,6 +20,8 @@ Content Writing, Market and Competitor Analysis, Content Calendar
 
 ### **Mariam Taha Abdallah Okail** – 
 Content Writing, SEO, Content Calendar
+
+---
 
 ## 🗂️ Work Plan  
 ### 1. Research & Analysis  
@@ -40,11 +42,14 @@ o	Winter Collection Intro
 ### 5.	Review & Finalization
 ### 6.	Final Presentation
 
-KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
+---
+
+### KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
 1-	Reach 
 2-	Engagement
 3-	Sales
 
+---
 
 
 ## 🗂️ استراتيجية العمل 
