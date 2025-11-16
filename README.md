@@ -21,6 +21,31 @@ Content Writing, Market and Competitor Analysis, Content Calendar
 ### **Mariam Taha Abdallah Okail** – 
 Content Writing, SEO, Content Calendar
 
+## 🗂️ Work Plan  
+### 1. Research & Analysis  
+o	Audience personas
+o	Market Analysis
+o	Competitors Analysis
+
+### 2. Marketing Strategy 
+o	Content Strategy
+o	Content Calendar
+o	Paid Ads Plan
+
+### 3.	Content Writing
+o	Continuous Content Campaign for building Trust وثاق ثقة
+o	Black Friday Offer
+o	Winter Collection Intro
+### 4.	Complementary Products
+### 5.	Review & Finalization
+### 6.	Final Presentation
+
+KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
+1-	Reach 
+2-	Engagement
+3-	Sales
+
+
 
 ## 🗂️ استراتيجية العمل 
 
